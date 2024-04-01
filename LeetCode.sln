@@ -1,33 +1,33 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34330.188
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "088. 合并两个有序数组", "88. 合并两个有序数组\88. 合并两个有序数组.vcxproj", "{9C9D6565-03BA-4C74-BC02-D4C31EE2B382}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0088. 合并两个有序数组", "88. 合并两个有序数组\88. 合并两个有序数组.vcxproj", "{9C9D6565-03BA-4C74-BC02-D4C31EE2B382}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "150. 逆波兰式表达式求值", "150. 逆波兰式表达式求值\150. 逆波兰式表达式求值.vcxproj", "{DF908BB3-2730-4298-A79B-2B29BC353ED8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0150. 逆波兰式表达式求值", "150. 逆波兰式表达式求值\150. 逆波兰式表达式求值.vcxproj", "{DF908BB3-2730-4298-A79B-2B29BC353ED8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "027. 移除元素", "27. 移除元素\27. 移除元素.vcxproj", "{DC48B5A5-18D5-4486-95F3-A0AFDD5999E6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0027. 移除元素", "27. 移除元素\27. 移除元素.vcxproj", "{DC48B5A5-18D5-4486-95F3-A0AFDD5999E6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "050. POW(x, n)", "050. POW(x, y)\050. POW(x, y).vcxproj", "{8516B54A-C503-4A2C-84F8-94E3FAA95111}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0050. POW(x, n)", "050. POW(x, y)\050. POW(x, y).vcxproj", "{8516B54A-C503-4A2C-84F8-94E3FAA95111}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "101. 对称二叉树", "101. 对称二叉树\101. 对称二叉树.vcxproj", "{E95B98F8-681B-4591-8932-72D8904E1FDA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0101. 对称二叉树", "101. 对称二叉树\101. 对称二叉树.vcxproj", "{E95B98F8-681B-4591-8932-72D8904E1FDA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "036. 有效的数独", "36. 有效的数独\36. 有效的数独.vcxproj", "{F403A2A1-AA5A-4325-A0B6-D84CF0D25E52}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0036. 有效的数独", "36. 有效的数独\36. 有效的数独.vcxproj", "{F403A2A1-AA5A-4325-A0B6-D84CF0D25E52}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "056. 合并区间", "056. 合并区间\056. 合并区间.vcxproj", "{6775F633-C80A-47AC-95BC-C9472B91F668}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0056. 合并区间", "056. 合并区间\056. 合并区间.vcxproj", "{6775F633-C80A-47AC-95BC-C9472B91F668}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "173. 二叉搜索树迭代器", "173. 二叉搜索树迭代器\173. 二叉搜索树迭代器.vcxproj", "{15A11301-1E66-4BD3-8284-F7FC31F1FA6B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0173. 二叉搜索树迭代器", "173. 二叉搜索树迭代器\173. 二叉搜索树迭代器.vcxproj", "{15A11301-1E66-4BD3-8284-F7FC31F1FA6B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "076. 最小覆盖子串", "076. 最小覆盖子串\076. 最小覆盖子串.vcxproj", "{55820EE0-8F3C-465A-A162-5A726CDF999B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0076. 最小覆盖子串", "076. 最小覆盖子串\076. 最小覆盖子串.vcxproj", "{55820EE0-8F3C-465A-A162-5A726CDF999B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "383. 赎金信", "383. 赎金信\383. 赎金信.vcxproj", "{895FEE12-6923-40C0-B61F-8A495A07B431}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0383. 赎金信", "383. 赎金信\383. 赎金信.vcxproj", "{895FEE12-6923-40C0-B61F-8A495A07B431}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "331. 验证二叉树的前序序列化", "331. 验证二叉树的前序序列化\331. 验证二叉树的前序序列化.vcxproj", "{0F859775-8AAB-4A5C-B1E9-1B65FD0BA247}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0331. 验证二叉树的前序序列化", "331. 验证二叉树的前序序列化\331. 验证二叉树的前序序列化.vcxproj", "{0F859775-8AAB-4A5C-B1E9-1B65FD0BA247}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "033. 搜索旋转排序数组", "033. 搜索旋转排序数组\033. 搜索旋转排序数组.vcxproj", "{9B3CBE5F-00FA-4406-8BF2-2445B11D47E5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0033. 搜索旋转排序数组", "033. 搜索旋转排序数组\033. 搜索旋转排序数组.vcxproj", "{9B3CBE5F-00FA-4406-8BF2-2445B11D47E5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "442. 数组中重复的数据", "442. 数组中重复的数据\442. 数组中重复的数据.vcxproj", "{2BF71B7A-9D93-4E92-9A93-D25EB336999B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0442. 数组中重复的数据", "442. 数组中重复的数据\442. 数组中重复的数据.vcxproj", "{2BF71B7A-9D93-4E92-9A93-D25EB336999B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "染色", "染色\染色.vcxproj", "{70829195-A4C8-440D-99EF-1F12B9301BFA}"
 EndProject
@@ -38,6 +38,14 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组分割", "数组分割\数组分割.vcxproj", "{A093C517-7E8D-4AC1-89A8-E75C93C5F00B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tencent矩阵", "tencent矩阵\tencent矩阵.vcxproj", "{63345D23-E5F5-479B-BEB3-0383FCB336B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2810. 故障键盘", "2810. 故障键盘\2810. 故障键盘.vcxproj", "{67A78048-D17E-44B9-BB7A-B82FD66E96FF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0289. 生命游戏", "0289. 生命游戏\0289. 生命游戏.vcxproj", "{6CF7968C-4C5E-4B43-83C7-700B0372AC63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0200. 岛屿数量", "0200. 岛屿数量\0200. 岛屿数量.vcxproj", "{DAFEEB01-70A6-4F99-9565-53DFE35647ED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0120. 三角形最小路径和", "0120. 三角形最小路径和\0120. 三角形最小路径和.vcxproj", "{6E3489D9-BC83-4970-8FC7-7633E00A0544}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +199,38 @@ Global
 		{63345D23-E5F5-479B-BEB3-0383FCB336B1}.Release|x64.Build.0 = Release|x64
 		{63345D23-E5F5-479B-BEB3-0383FCB336B1}.Release|x86.ActiveCfg = Release|Win32
 		{63345D23-E5F5-479B-BEB3-0383FCB336B1}.Release|x86.Build.0 = Release|Win32
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Debug|x64.ActiveCfg = Debug|x64
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Debug|x64.Build.0 = Debug|x64
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Debug|x86.Build.0 = Debug|Win32
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Release|x64.ActiveCfg = Release|x64
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Release|x64.Build.0 = Release|x64
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Release|x86.ActiveCfg = Release|Win32
+		{67A78048-D17E-44B9-BB7A-B82FD66E96FF}.Release|x86.Build.0 = Release|Win32
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Debug|x64.ActiveCfg = Debug|x64
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Debug|x64.Build.0 = Debug|x64
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Debug|x86.Build.0 = Debug|Win32
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Release|x64.ActiveCfg = Release|x64
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Release|x64.Build.0 = Release|x64
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Release|x86.ActiveCfg = Release|Win32
+		{6CF7968C-4C5E-4B43-83C7-700B0372AC63}.Release|x86.Build.0 = Release|Win32
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Debug|x64.ActiveCfg = Debug|x64
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Debug|x64.Build.0 = Debug|x64
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Debug|x86.Build.0 = Debug|Win32
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Release|x64.ActiveCfg = Release|x64
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Release|x64.Build.0 = Release|x64
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Release|x86.ActiveCfg = Release|Win32
+		{DAFEEB01-70A6-4F99-9565-53DFE35647ED}.Release|x86.Build.0 = Release|Win32
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Debug|x64.ActiveCfg = Debug|x64
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Debug|x64.Build.0 = Debug|x64
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Debug|x86.Build.0 = Debug|Win32
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x64.ActiveCfg = Release|x64
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x64.Build.0 = Release|x64
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x86.ActiveCfg = Release|Win32
+		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,7 +24,7 @@
     <ProjectGuid>{dc48b5a5-18d5-4486-95f3-a0afdd5999e6}</ProjectGuid>
     <RootNamespace>My27移除元素</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>027. 移除元素</ProjectName>
+    <ProjectName>0027. 移除元素</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

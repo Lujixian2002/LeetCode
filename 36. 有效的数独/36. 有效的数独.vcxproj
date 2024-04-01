@@ -24,7 +24,7 @@
     <ProjectGuid>{f403a2a1-aa5a-4325-a0b6-d84cf0d25e52}</ProjectGuid>
     <RootNamespace>My36有效的数独</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>036. 有效的数独</ProjectName>
+    <ProjectName>0036. 有效的数独</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

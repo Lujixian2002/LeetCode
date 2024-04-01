@@ -24,6 +24,7 @@
     <ProjectGuid>{55820ee0-8f3c-465a-a162-5a726cdf999b}</ProjectGuid>
     <RootNamespace>My076最小覆盖子串</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>0076. 最小覆盖子串</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
