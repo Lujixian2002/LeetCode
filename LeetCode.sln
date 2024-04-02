@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34601.136
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0088. 合并两个有序数组", "88. 合并两个有序数组\88. 合并两个有序数组.vcxproj", "{9C9D6565-03BA-4C74-BC02-D4C31EE2B382}"
 EndProject
@@ -46,6 +46,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0200. 岛屿数量", "0200. 岛屿数量\0200. 岛屿数量.vcxproj", "{DAFEEB01-70A6-4F99-9565-53DFE35647ED}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0120. 三角形最小路径和", "0120. 三角形最小路径和\0120. 三角形最小路径和.vcxproj", "{6E3489D9-BC83-4970-8FC7-7633E00A0544}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0894. 所有可能的真二叉树", "0894. 所有可能的真二叉树\0894. 所有可能的真二叉树.vcxproj", "{652FEA30-9FCB-435D-9D44-EEDF28ADE868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,14 @@ Global
 		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x64.Build.0 = Release|x64
 		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x86.ActiveCfg = Release|Win32
 		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x86.Build.0 = Release|Win32
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Debug|x64.ActiveCfg = Debug|x64
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Debug|x64.Build.0 = Debug|x64
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Debug|x86.ActiveCfg = Debug|Win32
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Debug|x86.Build.0 = Debug|Win32
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Release|x64.ActiveCfg = Release|x64
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Release|x64.Build.0 = Release|x64
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Release|x86.ActiveCfg = Release|Win32
+		{652FEA30-9FCB-435D-9D44-EEDF28ADE868}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
