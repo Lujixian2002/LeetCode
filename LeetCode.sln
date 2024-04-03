@@ -47,6 +47,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0200. 岛屿数量", "0200.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0120. 三角形最小路径和", "0120. 三角形最小路径和\0120. 三角形最小路径和.vcxproj", "{6E3489D9-BC83-4970-8FC7-7633E00A0544}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1379. 找出克隆二叉树中的相同节点", "1379. 找出克隆二叉树中的相同节点\1379. 找出克隆二叉树中的相同节点.vcxproj", "{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0215. 数组中的第K个最大元素", "0215. 数组中的第K个最大元素\0215. 数组中的第K个最大元素.vcxproj", "{90C43A67-1520-4019-9E03-1D30A8693C7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +235,22 @@ Global
 		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x64.Build.0 = Release|x64
 		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x86.ActiveCfg = Release|Win32
 		{6E3489D9-BC83-4970-8FC7-7633E00A0544}.Release|x86.Build.0 = Release|Win32
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Debug|x64.ActiveCfg = Debug|x64
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Debug|x64.Build.0 = Debug|x64
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Debug|x86.Build.0 = Debug|Win32
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Release|x64.ActiveCfg = Release|x64
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Release|x64.Build.0 = Release|x64
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Release|x86.ActiveCfg = Release|Win32
+		{7C140A94-D142-414A-B06A-9A6DBBF4BBF3}.Release|x86.Build.0 = Release|Win32
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Debug|x64.ActiveCfg = Debug|x64
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Debug|x64.Build.0 = Debug|x64
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Debug|x86.ActiveCfg = Debug|Win32
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Debug|x86.Build.0 = Debug|Win32
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Release|x64.ActiveCfg = Release|x64
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Release|x64.Build.0 = Release|x64
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Release|x86.ActiveCfg = Release|Win32
+		{90C43A67-1520-4019-9E03-1D30A8693C7D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
